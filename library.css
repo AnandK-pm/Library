@@ -7,6 +7,8 @@ body {
 }
 
 .title {
+    font-family:cursive;
+    font-weight: 800;
     font-size: 1.2rem;
     text-align: center;
     font-size: 2em;

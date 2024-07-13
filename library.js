@@ -76,7 +76,7 @@ document.addEventListener("DOMContentLoaded", function() {
             bookcontainer.appendChild(bookDiv);
             const removebtn = document.createElement("button");
             removebtn.classList.add("removebtn");
-            removebtn.textContent = 'remove';
+            removebtn.textContent = 'Remove';
             bookDiv.appendChild(removebtn);
             removebtn.addEventListener("click",(e)=>{
                 myLibrary.splice(index,1)
