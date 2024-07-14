@@ -76,7 +76,7 @@ input[type="submit"]:hover, .close:hover, .addbook:hover {
 }
 .read
 {
-    background-color: rgb(180, 220, 255);
+    background-color: rgba(1, 15, 27, 0.173);
 }
 /* Individual book card styling */
 .book, .read {
